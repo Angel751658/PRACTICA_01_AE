@@ -21,7 +21,7 @@ Este repositorio corresponde a la práctica 1 del curso, enfocada en el manejo d
 
 ## Colaboradores
 
-- SErgio David Elizondo Silva
+- Sergio David Elizondo Silva
 - Angel Aceves Manzo
 
 
